@@ -15,7 +15,7 @@ namespace DKNLD1.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Huynh Tien Hieu";
 
             return View();
         }
