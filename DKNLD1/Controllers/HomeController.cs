@@ -22,7 +22,7 @@ namespace DKNLD1.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = " Hoàng Phúc";
 
             return View();
         }
